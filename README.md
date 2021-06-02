@@ -1,17 +1,12 @@
-### Hi there 👋
+## 👋🏼 Hi there - I'm Pierre Perrin (protoxvga)
 
-<!--
-**protoxvga/protoxvga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Actually in second year at [Epitech](https://github.com/Epitech) school 
+ 
+- 👨🏻‍💻 I’m currently working on private projects for my school
+- 📖 I’m currently learning Javascript and popular frameworks
+- 📫 Please contact me at: pierre.perrin@epitech.eu
+- ❗️If you are Epitech Student you shouldn't copy Epitech projects repo | Anything you do is your responsibility
 
-Here are some ideas to get you started:
+![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=protoxvga&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,issues&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=protoxvga)](https://github.com/anuraghazra/github-readme-stats)
+### ⚡️ My Actual Skills
