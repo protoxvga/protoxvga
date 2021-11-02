@@ -20,5 +20,6 @@
 <img align="left" alt="html" width="60px" src="https://github.com/protoxvga/protoxvga/blob/main/img/html.png?raw=true"/>
 <img align="left" alt="css" width="60px" src="https://github.com/protoxvga/protoxvga/blob/main/img/css.png?raw=true"/>
 <img align="left" alt="js" width="60px" src="https://github.com/protoxvga/protoxvga/blob/main/img/JS.png?raw=true"/>
+<img align="left" alt="React" width="60px" src="https://github.com/protoxvga/protoxvga/blob/main/img/React.png?raw=true"/>
 <img align="left" alt="code" width="60px" src="https://github.com/protoxvga/protoxvga/blob/main/img/code.png?raw=true"/>
 <img align="left" alt="git" width="60px" src="https://github.com/protoxvga/protoxvga/blob/main/img/git.png?raw=true"/>
