@@ -3,7 +3,7 @@
 ### 💻 Actually in third year at [Epitech](https://github.com/Epitech) school 
  
 - 👨🏻‍💻 I’m currently working on private projects for my school
-- 📖 I’m currently learning Javascript and popular frameworks
+- 📖 I’m currently working with React for work
 - 📫 Please contact me at: pierre.perrin@epitech.eu
 - ❗️If you are Epitech Student you shouldn't copy Epitech projects repo | Anything you do is your responsibility
 </br>
