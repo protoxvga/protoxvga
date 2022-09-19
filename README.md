@@ -1,6 +1,6 @@
 ## 👋🏼 Hi there - I'm Pierre Perrin (protoxvga)
 
-### 💻 Actually in third year at [Epitech](https://github.com/Epitech) school 
+### 💻 Actually in fourth year at [Epitech](https://github.com/Epitech) school 
  
 - 👨🏻‍💻 I’m currently working on private projects for my school
 - 📖 I’m currently working with React for work
